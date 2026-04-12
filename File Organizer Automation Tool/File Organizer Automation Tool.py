@@ -17,7 +17,7 @@ Concepts Used:
     - Exception Handling → missing files, permission errors, invalid paths
 
 Usage:
-usage: File Organizer Automation Tool.py [-h] [--dry-run] [--recursive] [--undo] directory
+File Organizer Automation Tool.py [-h] [--dry-run] [--recursive] [--undo] directory
     python "File Organizer Automation Tool.py" <source_directory>
     python "File Organizer Automation Tool.py" <source_directory> --dry-run
     python "File Organizer Automation Tool.py" <source_directory> --recursive
