@@ -48,7 +48,7 @@ GROUP BY category;
 
 
 SELECT * FROM products
-WHERE quantity < 20;
+WHERE quantity < 30;
 
 SELECT product_name, (price * quantity) AS total_value
 FROM products;
